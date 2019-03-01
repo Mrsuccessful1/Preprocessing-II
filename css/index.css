@@ -5,9 +5,12 @@
   align-items: center;
   background: teal;
   color: white;
-  width: 85%;
+  width: 100%;
   border-radius: 10%;
   height: 40px;
+}
+.btn:hover {
+  background: #006667;
 }
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
